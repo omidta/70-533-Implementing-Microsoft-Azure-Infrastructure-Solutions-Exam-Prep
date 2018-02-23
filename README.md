@@ -1,6 +1,5 @@
 # 70-533 Implementing Microsoft Azure Infrastructure Solutions Exam Prep
-Resources for 70-533 certification exam
-
+Resources for 70-533 certification exam.
 * * *
 
 The idea here is to map the exam objectives to online resources for self-study, in a similar way of [Anders Eide’s blog post](https://anderseideblog.wordpress.com/reading-lists/ms-exam-70-533-implementing-microsoft-azure-infrastructure-solutions/), but based on the [updated exam](https://www.microsoft.com/en-us/learning/exam-70-533.aspx) as **November 22, 2016**.
